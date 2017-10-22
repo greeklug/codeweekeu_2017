@@ -22,7 +22,7 @@
 
 * Το `default_html5_template.html` είναι ένα βασικό πρότυπο σελίδας HTML5
 * Το `template-1-html.html` περιέχει κώδικα HTML και το `template-1-html_example.html` ενδεικτικό περιεχόμενο HTML
-* Τα `template-2-css.html` & `template-2-css.css` περιέχουν κώδικα HTML+CSS ως μορφοποίηση του template-1, ενώ τα `template-2-css.html` & `template-2-css.css` περιέχουν ενδεικτικό περιεχόμενο HTML+CSS
+* Τα `template-2-css.html` & `template-2-css.css` περιέχουν κώδικα HTML+CSS ως μορφοποίηση του template-1, ενώ τα `template-2-css_example.html` & `template-2-css_example.css` περιέχουν ενδεικτικό περιεχόμενο HTML+CSS
 
 ![coding](https://edu.greeklug.gr/data/codeweekeu_2017/github-1-coding.jpg)
 
