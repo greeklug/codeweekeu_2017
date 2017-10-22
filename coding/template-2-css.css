@@ -1,0 +1,30 @@
+body {
+	background-color: #c7f1d0;
+	background-image: url("weather-clouds.png");
+	background-repeat: no-repeat;
+	background-position: top right;
+	font-family: 'Ubuntu', sans-serif;
+}
+ul {
+	border:5px solid black;
+}
+ol {
+	border:3px dotted #00a9ff;
+}
+li {
+	color: #ac2df7;
+}
+h6 {
+	text-transform: uppercase;
+}
+img {
+	margin-left: 40px;
+}
+a {
+	text-decoration: none;
+	color: #f7002a;
+}
+a:hover {
+	text-decoration: none;
+	color: blue;
+}

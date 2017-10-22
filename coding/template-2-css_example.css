@@ -1,0 +1,37 @@
+body {
+	background-color: #eee;
+	background-image: url("codeweekeu_back.png");
+	background-repeat: no-repeat;
+	background-position: top right;	
+	font-family: 'Source Sans Pro', sans-serif;
+}
+ul, ol {
+	border:1px solid black;
+}
+div {
+	border:2px dashed #00a9ff;
+	background-color: #fff;
+	margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+}
+li {
+	color: #08a0c4;
+}
+h6 {
+	text-transform: uppercase;
+	text-align: center;
+}
+img {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+a {
+	text-decoration: none;
+	color: #f7002a;
+}
+a:hover {
+	text-decoration: none;
+	color: blue;
+}

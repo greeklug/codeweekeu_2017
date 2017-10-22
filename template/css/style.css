@@ -1,0 +1,23 @@
+/*!
+ * CodeWeekEU - GreekLUG Template
+ */
+
+body {
+    font-family: sans-serif;
+    padding-top: 54px;
+}
+
+header {
+	background-color: grey;
+    background-size: cover;
+}
+
+nav {
+    background-color: tomato;
+}
+
+header.masthead>.overlay {
+    padding: 9rem 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+}
